@@ -70,3 +70,32 @@ body {
     border-radius: 4px;
 
 }
+
+.info-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.info-cards{
+    display: flex;
+    padding: 0 12% 50px 12%;
+    gap: 24px;
+}
+
+.info-image{
+    aspect-ratio: 1/1;
+    width: 100%;
+    border-radius: 1em;
+    border-color: #3882f6;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.info-subtext {
+    color: #1F2937;
+    font-size: 18px;
+    text-align: justify;
+}
