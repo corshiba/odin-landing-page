@@ -103,3 +103,20 @@ body {
 .quote-container {
     background-color: #E5E7EB;
 }
+
+.first-quote{
+    padding: 10% 12% 7% 12%;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    padding-left: 5%;
+}
+
+.quote-author {
+    text-align: right;
+    font-weight: bold;
+}
