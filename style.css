@@ -108,6 +108,10 @@ body {
     padding: 10% 12% 7% 12%;
 }
 
+.first-quote p {
+    margin: 0;
+}
+
 .quote-text {
     font-size: 36px;
     font-weight: lighter;
