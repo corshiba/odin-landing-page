@@ -99,3 +99,7 @@ body {
     font-size: 18px;
     text-align: justify;
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+}
